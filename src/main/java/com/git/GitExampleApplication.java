@@ -12,7 +12,7 @@ public class GitExampleApplication {
 		
 		System.out.println("this is git example");
 		
-		System.out.println("you are handsome");
+		System.out.println("This is the third commit");
 		
 	}
 
