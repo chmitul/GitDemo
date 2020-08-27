@@ -12,6 +12,8 @@ public class GitExampleApplication {
 		
 		System.out.println("this is git example");
 		
+		System.out.println("you are handsome");
+		
 	}
 
 }
