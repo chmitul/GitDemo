@@ -14,6 +14,8 @@ public class GitExampleApplication {
 		
 		System.out.println("This is the third commit");
 		
+		System.out.println("This is awesome");
+		
 	}
 
 }
