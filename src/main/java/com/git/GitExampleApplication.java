@@ -10,7 +10,7 @@ public class GitExampleApplication {
 		SpringApplication.run(GitExampleApplication.class, args);
 		
 		
-		System.out.println("this is git example");
+		System.out.println("this is git example... learning is awesome");
 		
 		System.out.println("This is the third commit");
 		
